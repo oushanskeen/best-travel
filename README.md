@@ -1,5 +1,6 @@
 # best-travel
 best-travel-puzzle code
+to try: node bestTravel.output.v2.js.
 
   CONTENTS 
     
